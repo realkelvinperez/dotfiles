@@ -1,0 +1,22 @@
+{
+  "diagnostics": {
+    "%2FUsers%2Fkelvinperez%2FRepos%2FAMZ-SNAGGER%2Famz-snagger-app": [
+      "j"
+    ],
+    "%2FUsers%2Fkelvinperez%2F": {
+      "config%2Fnvim": [
+        ":q"
+      ]
+    }
+  },
+  "marketplace": {
+    "%2FUsers%2Fkelvinperez%2F": {
+      "config%2Fnvim%2Fplug-config": [
+        "rust"
+      ]
+    },
+    "%2FUsers%2Fkelvinperez%2FRepos%2FAMZ-SNAGGER%2Famz-snagger-app": [
+      "prett"
+    ]
+  }
+}
